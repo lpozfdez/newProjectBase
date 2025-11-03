@@ -1,0 +1,254 @@
+{
+  "developers": [
+  {
+    "id": 1,
+    "first_name": "Keelby",
+    "last_name": "Pilsbury",
+    "email": "kpilsbury0@linkedin.com",
+    "gender": "Male",
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=3",
+    "remote": true
+  },
+  {
+    "id": 2,
+    "first_name": "Torey",
+    "last_name": "Breward",
+    "email": "tbreward1@i2i.jp",
+    "gender": null,
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=1",
+    "remote": false
+  },
+  {
+    "id": 3,
+    "first_name": "Lanny",
+    "last_name": "MacBrearty",
+    "email": "lmacbrearty2@prnewswire.com",
+    "gender": "Male",
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=6",
+    "remote": false
+  },
+  {
+    "id": 4,
+    "first_name": "Tessa",
+    "last_name": "Jurgensen",
+    "email": "tjurgensen3@lulu.com",
+    "gender": "Female",
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=5",
+    "remote": null
+  },
+  {
+    "id": 5,
+    "first_name": "Teressa",
+    "last_name": "Brion",
+    "email": "tbrion4@geocities.com",
+    "gender": null,
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=9",
+    "remote": null
+  },
+  {
+    "id": 6,
+    "first_name": "Mord",
+    "last_name": "Redmain",
+    "email": "mredmain5@netscape.com",
+    "gender": null,
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=7",
+    "remote": null
+  },
+  {
+    "id": 7,
+    "first_name": "Heddi",
+    "last_name": "Songer",
+    "email": "hsonger6@samsung.com",
+    "gender": null,
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=8",
+    "remote": false
+  },
+  {
+    "id": 8,
+    "first_name": "Arvie",
+    "last_name": "Lodden",
+    "email": "alodden7@dot.gov",
+    "gender": "Male",
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=11",
+    "remote": null
+  },
+  {
+    "id": 9,
+    "first_name": "Wolfie",
+    "last_name": "Andries",
+    "email": "wandries8@symantec.com",
+    "gender": null,
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=10",
+    "remote": null
+  },
+  {
+    "id": 10,
+    "first_name": "Maxie",
+    "last_name": "Timeby",
+    "email": "mtimeby9@techcrunch.com",
+    "gender": "Male",
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=12",
+    "remote": null
+  },
+  {
+    "id": 11,
+    "first_name": "Rupert",
+    "last_name": "Graser",
+    "email": "rgrasera@amazon.de",
+    "gender": null,
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=13",
+    "remote": true
+  },
+  {
+    "id": 12,
+    "first_name": "Adel",
+    "last_name": "Pimme",
+    "email": "apimmeb@ezinearticles.com",
+    "gender": "Female",
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=16",
+    "remote": null
+  },
+  {
+    "id": 13,
+    "first_name": "Sholom",
+    "last_name": "Baszniak",
+    "email": "sbaszniakc@google.nl",
+    "gender": null,
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=14",
+    "remote": false
+  },
+  {
+    "id": 14,
+    "first_name": "Tripp",
+    "last_name": "Wheelband",
+    "email": "twheelbandd@bloomberg.com",
+    "gender": "Male",
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=15",
+    "remote": null
+  },
+  {
+    "id": 15,
+    "first_name": "Brett",
+    "last_name": "Rosendale",
+    "email": "brosendalee@adobe.com",
+    "gender": null,
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=17",
+    "remote": null
+  },
+  {
+    "id": 16,
+    "first_name": "Cobb",
+    "last_name": "Misselbrook",
+    "email": "cmisselbrookf@merriam-webster.com",
+    "gender": null,
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=18",
+    "remote": null
+  },
+  {
+    "id": 17,
+    "first_name": "Fiorenze",
+    "last_name": "Vayne",
+    "email": "fvayneg@e-recht24.de",
+    "gender": "Female",
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=19",
+    "remote": false
+  },
+  {
+    "id": 18,
+    "first_name": "Thorsten",
+    "last_name": "Gowdie",
+    "email": "tgowdieh@stanford.edu",
+    "gender": "Male",
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=33",
+    "remote": null
+  },
+  {
+    "id": 19,
+    "first_name": "Gabrila",
+    "last_name": "Kimbell",
+    "email": "gkimbelli@youtu.be",
+    "gender": null,
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=32",
+    "remote": false
+  },
+  {
+    "id": 20,
+    "first_name": "Marmaduke",
+    "last_name": "Durdy",
+    "email": "mdurdyj@merriam-webster.com",
+    "gender": null,
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=50",
+    "remote": true
+  },
+  {
+    "id": 21,
+    "first_name": "Flo",
+    "last_name": "Foyle",
+    "email": "ffoylek@redcross.org",
+    "gender": null,
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=28",
+    "remote": null
+  },
+  {
+    "id": 22,
+    "first_name": "Selene",
+    "last_name": "Dessaur",
+    "email": "sdessaurl@thetimes.co.uk",
+    "gender": null,
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=27",
+    "remote": false
+  },
+  {
+    "id": 23,
+    "first_name": "Leta",
+    "last_name": "Doe",
+    "email": "ldoem@dmoz.org",
+    "gender": null,
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=26",
+    "remote": false
+  },
+  {
+    "id": 24,
+    "first_name": "Brunhilda",
+    "last_name": "Clemens",
+    "email": "bclemensn@joomla.org",
+    "gender": null,
+    "position": "Backend",
+    "photo": "https://i.pravatar.cc/200?img=25",
+    "remote": null
+  },
+  {
+    "id": 25,
+    "first_name": "Marna",
+    "last_name": "Willison",
+    "email": "mwillisono@ft.com",
+    "gender": "Female",
+    "position": "Frontend",
+    "photo": "https://i.pravatar.cc/200?img=24",
+    "remote": false
+  }
+]
+}

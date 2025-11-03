@@ -1,0 +1,45 @@
+@import 'src/styles/variables';
+
+@keyframes borderGlow {
+  0% {
+    border-color: transparent;
+    box-shadow: none;
+  }
+  50% {
+    border-color: $hover-purple;
+    box-shadow: 0 0 8px 2px $hover-purple;
+  }
+  100% {
+    border-color: $character-border;
+    box-shadow: 0 0 20px 5px $character-border;
+  }
+}
+
+@keyframes borderGlowPink {
+  0% {
+    border-color: transparent;
+    box-shadow: none;
+  }
+  50% {
+    border-color: $hover-pink;
+    box-shadow: 0 0 8px 2px $hover-pink;
+  }
+  100% {
+    border-color: $character-border-pink;
+    box-shadow: 0 0 20px 5px $character-border-pink;
+  }
+}
+
+.btn-outline-primary {
+  color: $primary-color;
+  border-color: $primary-color;
+  transition: background-color 0.3s ease, color 0.3s ease;
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: $primary-color;
+    color: #fff;
+    border-color: $primary-color;
+  }
+}
