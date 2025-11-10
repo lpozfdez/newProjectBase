@@ -4,7 +4,8 @@ import { AuthRoutingModule } from './auth-routing.module';
 import { LayoutPageComponent } from './pages/layoutPage/layoutPage.component';
 import { LoginPageComponent } from './pages/loginPage/loginPage.component';
 import { RegisterPageComponent } from './pages/registerPage/registerPage.component';
-import { MaterialModule } from '../material/material.module';
+import { Error404Component } from './pages/error404/error404.component';
+import { MaterialModule } from 'src/app/shared/material/material.module';
 
 
 
@@ -13,13 +14,13 @@ import { MaterialModule } from '../material/material.module';
     LayoutPageComponent,
     LoginPageComponent,
     RegisterPageComponent,
+    Error404Component,
 
   ],
   imports: [
     CommonModule,
     AuthRoutingModule,
-    MaterialModule,
-
+    MaterialModule
   ]
 })
 export class AuthModule { }
